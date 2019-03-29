@@ -50,16 +50,8 @@
     <Compile Include="Source\Static.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
-  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
-       Other similar extension points exist, see Microsoft.Common.targets. -->
   <Target Name="AfterBuild">
     <Exec Command="copy bin\$(Configuration)\SnareTrap.dll SnareTrap\Assemblies\SnareTrap.dll" />
     <Exec Command="call install.bat" />
   </Target>
-  <!-- <ItemDefinitionGroup>
-    <PostBuildEvent Com>
-      <Command>
-      </Command>
-    </PostBuildEvent>
-  </ItemDefinitionGroup> -->
 </Project>
