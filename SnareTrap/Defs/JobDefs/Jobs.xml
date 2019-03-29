@@ -1,8 +1,8 @@
 ﻿<?xml version="1.0" encoding="utf-8" ?>
-<!-- <Defs>
+<Defs>
 	<JobDef>
 		<defName>SRV_DisableSnare</defName>
 		<driverClass>SurvivalistsAdditions.JobDriver_DisableSnare</driverClass>
 		<reportString>disabling TargetA.</reportString>
 	</JobDef>
-</Defs> -->
+</Defs>

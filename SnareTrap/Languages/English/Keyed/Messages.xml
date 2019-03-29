@@ -2,6 +2,11 @@
 <LanguageData>	
 	<SRV_ModName>Snare Trap (From CP's Survivalist's Additions)</SRV_ModName>
 
+	<SRV_LetterSnareTriggeredLabel>{0} Snared!</SRV_LetterSnareTriggeredLabel>
+	<SRV_LetterSnareTriggered>A {0} has been snared. Colonists can finish off or rescue the animal while it's snared</SRV_LetterSnareTriggered>
+	<SRV_LetterSnareTriggeredColony>{0} has wandered into a snare and needs to be rescued.</SRV_LetterSnareTriggeredColony>
+	<SRV_MenuOption_DisableSnare>Disable snare</SRV_MenuOption_DisableSnare>
+
 	<SRV_Label_Snare_FailChance>Snare, fail chance: Difficulty x &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</SRV_Label_Snare_FailChance>
 	<SRV_Label_Snare_BreakChance>Snare, break chance: Difficulty x &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</SRV_Label_Snare_BreakChance>
 	<SRV_Label_Snare_AllowPositive>Snare, allow positive notifications</SRV_Label_Snare_AllowPositive>
@@ -13,5 +18,4 @@
 	<SRV_ToolTip_Snare_AllowPositive>Allow notifications when a wild animal has been snared.</SRV_ToolTip_Snare_AllowPositive>
 	<SRV_ToolTip_Snare_AllowNegative>Allow notifications when a colony animal has been snared.</SRV_ToolTip_Snare_AllowNegative>
 	<SRV_ToolTip_Snare_NotificationType>The type of notification to send, if it is allowed.</SRV_ToolTip_Snare_NotificationType>
-
 </LanguageData>
