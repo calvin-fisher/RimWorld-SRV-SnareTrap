@@ -1,1 +1,1 @@
-# RimWorld-SimpleFurniture
+# RimWorld-SnareTrap
