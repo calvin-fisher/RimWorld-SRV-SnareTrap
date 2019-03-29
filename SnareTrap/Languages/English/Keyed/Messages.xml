@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<LanguageData>	
+	<SRV_ModName>Snare Trap (From CP's Survivalist's Additions)</SRV_ModName>
+
+	<SRV_Label_Snare_FailChance>Snare, fail chance: Difficulty x &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</SRV_Label_Snare_FailChance>
+	<SRV_Label_Snare_BreakChance>Snare, break chance: Difficulty x &lt;b&gt;&lt;color=orange&gt;{0}%&lt;/color&gt;&lt;/b&gt;</SRV_Label_Snare_BreakChance>
+	<SRV_Label_Snare_AllowPositive>Snare, allow positive notifications</SRV_Label_Snare_AllowPositive>
+	<SRV_Label_Snare_AllowNegative>Snare, allow negative notifications</SRV_Label_Snare_AllowNegative>
+	<SRV_Label_Snare_NotificationType>Snare, notification type</SRV_Label_Snare_NotificationType>
+		
+	<SRV_ToolTip_Snare_FailChance>The chance that the snare will fail in catching an animal. This number is multiplied by the game difficulty, so Peaceful or Very Easy will be 1x this number, Very Hard will be 5x this number, etc.</SRV_ToolTip_Snare_FailChance>
+	<SRV_ToolTip_Snare_BreakChance>The chance that the snare will break after an animal has broken free or died. This number is multiplied by the game difficulty, so Peaceful or Very Easy will be 1x this number, Very Hard will be 5x this number, etc.</SRV_ToolTip_Snare_BreakChance>
+	<SRV_ToolTip_Snare_AllowPositive>Allow notifications when a wild animal has been snared.</SRV_ToolTip_Snare_AllowPositive>
+	<SRV_ToolTip_Snare_AllowNegative>Allow notifications when a colony animal has been snared.</SRV_ToolTip_Snare_AllowNegative>
+	<SRV_ToolTip_Snare_NotificationType>The type of notification to send, if it is allowed.</SRV_ToolTip_Snare_NotificationType>
+
+</LanguageData>
